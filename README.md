@@ -1,4 +1,4 @@
-# LOS/NLOS Wireless Link Classification
+# LOS/NLOS Identification
 
 This repository implements a **machine learning pipeline for classifying wireless communication links as Line-of-Sight (LOS) or Non-Line-of-Sight (NLOS)** using RSSI measurements and geographic information.
 
